@@ -24,7 +24,7 @@ A Node.js chatbot powered by `whatsapp-web.js` that automatically responds to in
 ### Installation
 
 ```bash
-git clone https://github.com/SebasDosman/whatsapp_bot_.git
+git clone https://github.com/SebasDosman/whatsapp_bot_project_.git
 cd whatsapp-bot
 npm install
 ```
