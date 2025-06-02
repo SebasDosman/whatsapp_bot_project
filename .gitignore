@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Auth/session storage used by whatsapp-web.js (LocalAuth)
+.session/
+.session-data/
+.session-*/*
+.wwebjs_auth/*
+.wwebjs_cache/*
+
+# Puppeteer cache (Chrome profile)
+puppeteer_cache/
+puppeteer/
+
+# Bot artifacts
+unrecognized_queries.json
+*.log
+*.lock
+
+# Optional promo image
+server/promo-image.jpg
+
+# Transpiled files (if using TypeScript or Babel)
+dist/
+build/
+*.tsbuildinfo
